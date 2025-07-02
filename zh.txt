@@ -4,1461 +4,1461 @@
 	"entries": [{
 			"symbol": "CREW->TOTAL_FREE_POINTS",
 			"original": "Total Free Points: [0]",
-			"translation": "总 自由 点数: [0]",
+			"translation": "总 自 由 点 数 : [0]",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "CREW->POINT_CONFIRM",
 			"original": "You are assigning [0] points to a single crew member, are you sure?",
-			"translation": "将分配 [0] 点给单个机组成员，确定这样做吗？",
+			"translation": "将 分 配 [0] 点 给 单 个 机 组 成 员 ， 确 定 这 样 做 吗 ？",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "CREW->DEFAULT_TEAM_TEXT",
 			"original": "Your command crew go on survey expeditions, aid in anomaly skill checks, provide advice and affect ship operations. Support personnel maintain ship readiness and conduct repairs.  You can view more details on a particular skill by clicking on its icon.",
-			"translation": "指挥人员进行调查探险，协助异常技能检查，提供建议并操作星舰。后勤人员进行星舰准备，以及维修工作。可以通过点击某项技能的图标来查看该技能的详情。",
+			"translation": "指 挥 人 员 进 行 调 查 探 险 ， 协 助 异 常 技 能 检 查 ， 提 供 建 议 并 操 作 星 舰 。 后 勤 人 员 进 行 星 舰 准 备 ， 以 及 维 修 工 作 。 可 以 通 过 点 击 某 项 技 能 的 图 标 来 查 看 该 技 能 的 详 情 。",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "CREW->COMMAND_TEAM_HEALTH",
 			"original": "Command Team Health: [0]%",
-			"translation": "指挥人员生命值: [0]%",
+			"translation": "指 挥 人 员 生 命 值 : [0]%",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "CREW->XP_NEXT_LEVEL",
 			"original": "XP for next level: [0] / [1]",
-			"translation": "升级所需经验值: [0] / [1]",
+			"translation": "升 级 所 需 经 验 值 : [0] / [1]",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "CREW->MAX_LEVEL",
 			"original": "Max Level Reached",
-			"translation": "达到最大等级",
+			"translation": "达 到 最 大 等 级",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "CREW->UNSPENT_SKILL_POINTS",
 			"original": "Unspent Skill Points: [0]",
-			"translation": "未使用的技能点数: [0]",
+			"translation": "未 使 用 的 技 能 点 数 : [0]",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "CREW->HEALTHY",
 			"original": "Healthy",
-			"translation": "良好",
+			"translation": "良 好",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "CREW->INCAPACITATED",
 			"original": "Incapacitated",
-			"translation": "失能",
+			"translation": "失 能",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "CREW->CREW_ADVANCE",
 			"original": "The command crew have advanced in skill",
-			"translation": "指挥人员的技能获得提升",
+			"translation": "指 挥 人 员 的 技 能 获 得 提 升",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "CREW->FIRST_OFFICER_NOTIFICATION",
 			"original": "[0], First Officer",
-			"translation": "[0], 大副",
+			"translation": "[0], 大 副",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "CREW->GAMEPAD_SKILL_HINT",
 			"original": "Adjust Skill Point Assignments with Right Joystick",
-			"translation": "用右摇杆调整技能点分配",
+			"translation": "用 右 摇 杆 调 整 技 能 点 分 配",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "DISCOVERY->RESEARCH_POINTS",
 			"original": "Research Points",
-			"translation": "研究点数",
+			"translation": "研 究 点 数",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "DISCOVERY->DISCOVERY",
 			"original": "Discovery",
-			"translation": "发现",
+			"translation": "发 现",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "DISCOVERY->MINOR_DISCOVERY",
 			"original": "Minor Discovery",
-			"translation": "次要发现",
+			"translation": "次 要 发 现",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "DISCOVERY->MAJOR_DISCOVERY",
 			"original": "Major Discovery",
-			"translation": "重大发现",
+			"translation": "重 大 发 现",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->COMMAND_STAFF_DIRECTORY",
 			"original": "Command Staff Directory",
-			"translation": "指挥人员名录",
+			"translation": "指 挥 人 员 名 录",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->NOTICES",
 			"original": "Notices",
-			"translation": "通知",
+			"translation": "通 知",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->STATUS_SUMMARY",
 			"original": "Ship status summary. See Ship Systems panel for expanded details.",
-			"translation": "星舰状态摘要。有关详细信息，请参阅星舰系统面板。",
+			"translation": "星 舰 状 态 摘 要 。 有 关 详 细 信 息 ， 请 参 阅 星 舰 系 统 面 板 。",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->HULL",
 			"original": "Hull",
-			"translation": "船体",
+			"translation": "船 体",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->ENERGY_",
 			"original": "Energy\n",
-			"translation": "能量\n",
+			"translation": "能 量 \n",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->PROPULSION_",
 			"original": "Propulsion\n",
-			"translation": "驱动\n",
+			"translation": "驱 动 \n",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->WEAPONS",
 			"original": "Weapons",
-			"translation": "武器",
+			"translation": "武 器",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->SHIPYARD_RESOURCES",
 			"original": "Resources",
-			"translation": "资源",
+			"translation": "资 源",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->NEW_SHIP",
 			"original": "New Ship",
-			"translation": "新星舰",
+			"translation": "新 星 舰",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->SAVE_DESIGN",
 			"original": "Save Design",
-			"translation": "保存方案",
+			"translation": "保 存 方 案",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->LOAD_DESIGN",
 			"original": "Load Design",
-			"translation": "载入方案",
+			"translation": "载 入 方 案",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->REVERT",
 			"original": "Revert",
-			"translation": "还原",
+			"translation": "还 原",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->EDIT_COLOR_SCHEME",
 			"original": "Edit Color Scheme",
-			"translation": "编辑配色方案",
+			"translation": "编 辑 配 色 方 案",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->PLANNING_MODE",
 			"original": "Planning Mode",
-			"translation": "规划模式",
+			"translation": "规 划 模 式",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->SIMULATE_HEAT_PROFILE",
 			"original": "Simulate Heat Profile",
-			"translation": "模拟潜热结构",
+			"translation": "模 拟 潜 热 结 构",
 			"priority": 0,
 			"reviewed": true
 		},
     {
       "symbol": "SHIP_STATION_UI->THERMAL_LEGEND",
       "original": "Simulating realtime maximum heat production with all systems at maximum output. \n\n<color=#ccff00>Green/yellow: Systems nominal</color>\n<color=#ffcc00>Amber: Moderate efficiency loss (0-20%)</color>\n<color=#ff4353>Red: Significant efficiency loss (20-40%)</color>",
-      "translation": "模拟所有系统处于最大输出时的实时最大产热量。\n\n<color=#ccff00>绿色/黄色：系统标称</color>\n<color=#ffcc00>琥珀色：中等效率损失 (0-20%)</color>\n<color=#ff4353>红色：显著的效率损失 (20-40%)</color>"
+      "translation": "模 拟 所 有 系 统 处 于 最 大 输 出 时 的 实 时 最 大 产 热 量 。\n\n<color=#ccff00>绿 色 / 黄 色 ： 系 统 标 称</color>\n<color=#ffcc00>琥 珀 色 ： 中 等 效 率 损 失 (0-20%)</color>\n<color=#ff4353>红 色 ： 显 著 的 效 率 损 失 (20-40%)</color>"
     },
 		{
 			"symbol": "SHIP_STATION_UI->MISSION_GOAL_HEADER",
 			"original": "First Officer Notes:",
-			"translation": "大副说明:",
+			"translation": "大 副 说 明 :",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->MISSION_LIST",
 			"original": "Mission List",
-			"translation": "任务列表",
+			"translation": "任 务 列 表",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->RENAME_SHIP___COMMANDER",
 			"original": "RENAME SHIP / COMMANDER",
-			"translation": "重命名舰船 / 指挥官",
+			"translation": "重 命 名 舰 船 / 指 挥 官",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "SHIP_STATION_UI->SEARCH_FILTER_",
 			"original": "Search Filter:",
-			"translation": "搜寻筛选:",
+			"translation": "搜 寻 筛 选 :",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->RESOURCES",
 			"original": "Resources",
-			"translation": "资源",
+			"translation": "资 源",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->ANALYSIS_",
 			"original": "Analysis:",
-			"translation": "分析:",
+			"translation": "分 析 :",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->ANALYZE_ARTIFACT",
 			"original": "Analyze Artifact",
-			"translation": "分析古物",
+			"translation": "分 析 古 物",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "SHIP_STATION_UI->COMMAND_CREW",
 			"original": "Command Crew",
-			"translation": "指挥人员",
+			"translation": "指 挥 人 员",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->RANK",
 			"original": "Rank",
-			"translation": "军衔",
+			"translation": "军 衔",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->CONDITION",
 			"original": "Condition",
-			"translation": "状况",
+			"translation": "状 况",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->CREW_TOTALS_",
 			"original": "Crew Totals:",
-			"translation": "机组人员总数:",
+			"translation": "机 组 人 员 总 数 :",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->RENAME",
 			"original": "RENAME",
-			"translation": "重命名",
+			"translation": "重 命 名",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->CONFIRM",
 			"original": "Confirm",
-			"translation": "确认",
+			"translation": "确 认",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->ENERGY",
 			"original": "Energy",
-			"translation": "能量",
+			"translation": "能 量",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->ENGINES",
 			"original": "Engines",
-			"translation": "引擎",
+			"translation": "引 擎",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->SCANNERS",
 			"original": "Scanners",
-			"translation": "扫描器",
+			"translation": "扫 描 器",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->PLASMA_CANNONS",
 			"original": "Plasma Cannons",
-			"translation": "等离子加农炮",
+			"translation": "等 离 子 加 农 炮",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->CONTROL_",
 			"original": "Control:",
-			"translation": "控制:",
+			"translation": "控 制 :",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->FIXED_GUNS",
 			"original": "Fixed Guns",
-			"translation": "固定炮",
+			"translation": "固 定 炮",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->FIXED_PROJECTILE_",
 			"original": "Fixed Projectile:",
-			"translation": "固定弹:",
+			"translation": "固 定 弹 :",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->MISSILES",
 			"original": "Missiles",
-			"translation": "导弹",
+			"translation": "导 弹",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->MISSILE_TYPE_",
 			"original": "Missile Type:",
-			"translation": "导弹类型:",
+			"translation": "导 弹 类 型 :",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->LASERS",
 			"original": "Lasers",
-			"translation": "激光",
+			"translation": "激 光",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->HAVOK",
 			"original": "Havok",
-			"translation": "哈沃克引擎",
+			"translation": "哈 沃 克 引 擎",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->FIGHTER_DRONES",
 			"original": "Fighter Drones",
-			"translation": "战斗无人机",
+			"translation": "战 斗 无 人 机",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->SHIELDS",
 			"original": "Shields",
-			"translation": "护盾",
+			"translation": "护 盾",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->AUTOPILOT_REALTIME_CONTINUE",
 			"original": "Autopilot Realtime Continue",
-			"translation": "自动驾驶实时继续",
+			"translation": "自 动 驾 驶 实 时 继 续",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->EXIT_BUTTON",
 			"original": "Exit",
-			"translation": "退出",
+			"translation": "退 出",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->PLASMA_PROTOCOL_DROPDOWN->ENTRY_0",
 			"original": "Manual",
-			"translation": "手动",
+			"translation": "手 动",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "SHIP_STATION_UI->PLASMA_PROTOCOL_DROPDOWN->ENTRY_1",
 			"original": "Autofire",
-			"translation": "自动开火",
+			"translation": "自 动 开 火",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "SHIP_STATION_UI->FIXED_CONTROL_DROPDOWN->ENTRY_0",
 			"original": "Free",
-			"translation": "手动",
+			"translation": "手 动",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->FIXED_CONTROL_DROPDOWN->ENTRY_1",
 			"original": "Smart",
-			"translation": "智能",
+			"translation": "智 能",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->LASER_CONTROL_DROPDOWN->ENTRY_0",
 			"original": "Manual",
-			"translation": "手动",
+			"translation": "手 动",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->LASER_CONTROL_DROPDOWN->ENTRY_1",
 			"original": "Auto, Locked",
-			"translation": "自动, 锁定",
+			"translation": "自 动 , 锁 定",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->LASER_CONTROL_DROPDOWN->ENTRY_2",
 			"original": "Auto, Free",
-			"translation": "全自动",
+			"translation": "全 自 动",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_UI->PLASMA_FIRE_CONTROL_HINT",
 			"original": "Plasma fire control.\nManual: Fires normally on input\nAutofire: If no input detected, will fire on hostiles and obstacles",
-			"translation": "等离子开火控制。\n手动：根据输入正常开火\n自动开火：若未检测到输入，将自动向敌对目标和障碍物开火",
+			"translation": "等 离 子 开 火 控 制 。 \n 手 动 ： 根 据 输 入 正 常 开 火 \n 自 动 开 火 ： 若 未 检 测 到 输 入 ， 将 自 动 向 敌 对 目 标 和 障 碍 物 开 火",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "SHIP_STATION_UI->FIXED_FIRE_CONTROL_HINT",
 			"original": "Fixed gun fire control scheme.\nFree: Free fires when secondary fire is pressed, favoring locked target.\nFree, smart: Free fires only guns with hostile target in range.",
-			"translation": "固定炮组开火控制方案。\n自由开火：按下副武器键时自由开火，优先攻击锁定目标。\n智能自由开火：仅当敌对目标进入射程时才自由开火。",
+			"translation": "固 定 炮 组 开 火 控 制 方 案 。 \n 自 由 开 火 ： 按 下 副 武 器 键 时 自 由 开 火 ， 优 先 攻 击 锁 定 目 标 。 \n 智 能 自 由 开 火 ： 仅 当 敌 对 目 标 进 入 射 程 时 才 自 由 开 火 。",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "SHIP_STATION_UI->LASER_FIRE_CONTROL_HINT",
 			"original": "Laser fire control scheme.\nManual: Fires on locked target when secondary fire button is pressed.\nAuto, Locked: Auto fires on locked hostile target when in range.\nAuto, Free: Auto fires on any hostile target when in range.",
-			"translation": "激光开火控制方案。\n手动：按下副武器键时攻击锁定目标。\n自动锁定：进入射程后自动攻击锁定的敌对目标。\n自动自由攻击：进入射程后自动攻击任何敌对目标。",
+			"translation": "激 光 开 火 控 制 方 案 。 \n 手 动 ： 按 下 副 武 器 键 时 攻 击 锁 定 目 标 。 \n 自 动 锁 定 ： 进 入 射 程 后 自 动 攻 击 锁 定 的 敌 对 目 标 。 \n 自 动 自 由 攻 击 ： 进 入 射 程 后 自 动 攻 击 任 何 敌 对 目 标 。",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "SHIP_STATION_PANELS->OPERATIONS",
 			"original": "Operations",
-			"translation": "行动处",
+			"translation": "行 动 处",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_PANELS->RESEARCH",
 			"original": "Research",
-			"translation": "研究",
+			"translation": "研 究",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_PANELS->SHIPYARD",
 			"original": "Shipyard",
-			"translation": "船坞",
+			"translation": "船 坞",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_PANELS->MISSIONS",
 			"original": "Missions",
-			"translation": "任务",
+			"translation": "任 务",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_PANELS->LOG",
 			"original": "Log",
-			"translation": "日志",
+			"translation": "日 志",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_PANELS->CARGO",
 			"original": "Cargo",
-			"translation": "货物",
+			"translation": "货 物",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_PANELS->CREW",
 			"original": "Crew",
-			"translation": "机组",
+			"translation": "机 组",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_STATION_PANELS->SHIP_SYSTEMS",
 			"original": "Ship Systems",
-			"translation": "星舰系统",
+			"translation": "星 舰 系 统",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "OPERATIONS->REPORT_OPERATIONS",
 			"original": "Report to Operations before departure.",
-			"translation": "出发前先向行动处报告。",
+			"translation": "出 发 前 先 向 行 动 处 报 告 。",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "RESEARCH_UI->RP_PREFIX",
 			"original": "Research Points:",
-			"translation": "研究点数:",
+			"translation": "研 究 点 数 :",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "RESEARCH_UI->RP_COST",
 			"original": "Cost: [0] RP",
-			"translation": "花费: [0] 研究点数",
+			"translation": "花 费 : [0] 研 究 点 数",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "RESEARCH_UI->RESEARCH_COMPLETE",
 			"original": "Research Complete",
-			"translation": "研究完成",
+			"translation": "研 究 完 成",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "RESEARCH_UI->RESEARCH_TECH",
 			"original": "Research Tech",
-			"translation": "研究科技",
+			"translation": "研 究 科 技",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "RESEARCH_UI->INSUFFICIENT_RP",
 			"original": "Insufficient RP",
-			"translation": "研究点数不足",
+			"translation": "研 究 点 数 不 足",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "RESEARCH_UI->MISSING_PREREQ",
 			"original": "Missing Prereq",
-			"translation": "需要前置程序",
+			"translation": "需 要 前 置 程 序",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "RESEARCH_UI->TECH_UNAVAILABLE",
 			"original": "Technology Unavailable",
-			"translation": "科技不可用",
+			"translation": "科 技 不 可 用",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "RESEARCH_UI->TECH_UNKNOWN",
 			"original": "Unknown Technology",
-			"translation": "未知科技",
+			"translation": "未 知 科 技",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "RESEARCH_UI->TECH_RESEARCHED",
 			"original": "Researched",
-			"translation": "已研究",
+			"translation": "已 研 究",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "RESEARCH_UI->TECH_UNRESEARCHED",
 			"original": "Unresearched",
-			"translation": "未研究",
+			"translation": "未 研 究",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "SHIPYARD_UI->HEXES",
 			"original": "Hexes",
-			"translation": "法术",
+			"translation": "法 术",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIPYARD_UI->REACTOR_PRODUCTION",
 			"original": "Production",
-			"translation": "生产",
+			"translation": "生 产",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIPYARD_UI->REACTOR_RESERVES",
 			"original": "Reserves",
-			"translation": "储备",
+			"translation": "储 备",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIPYARD_UI->ARMOR_DEFLECT",
 			"original": "Deflect",
-			"translation": "转向",
+			"translation": "转 向",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIPYARD_UI->ARMOR_REINFORCE",
 			"original": "Reinforce",
-			"translation": "强化",
+			"translation": "强 化",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIPYARD_UI->FIRE_RATE",
 			"original": "Fire rate",
-			"translation": "射速",
+			"translation": "射 速",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIPYARD_UI->SHOTS_SEC",
 			"original": "shots/sec",
-			"translation": "每秒射击",
+			"translation": "每 秒 射 击",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIPYARD_UI->THRUST",
 			"original": "Thrust",
-			"translation": "推力",
+			"translation": "推 力",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIPYARD_UI->INSUFFICIENT_RESOURCES",
 			"original": "Insufficient Resources",
-			"translation": "资源不足",
+			"translation": "资 源 不 足",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIPYARD_UI->MODULE_LIMIT",
 			"original": "Ships are limited to [0] [1] modules",
-			"translation": "星舰只能使用 [0][1] 模块",
+			"translation": "星 舰 只 能 使 用 [0][1] 模 块",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIPYARD_UI->MAX_SIZE",
 			"original": "Exceeds max size of [0] for current bridge",
-			"translation": "超过当前舰桥的最大尺寸 [0]",
+			"translation": "超 过 当 前 舰 桥 的 最 大 尺 寸 [0]",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIPYARD_UI->ARMOR_TIP",
 			"original": "Arrow shows outward direction \t(Toward damage)",
-			"translation": "箭头显示向外方向 \t(对伤害)",
+			"translation": "箭 头 显 示 向 外 方 向 \t(对 伤 害)",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIPYARD_UI->ROTATE_TIP",
 			"original": "Press [A] or [D] to rotate selection, [X] to mirror left/right",
-			"translation": "按 [A] 或 [D] 旋转选择，按 [X] 左/右水平翻转",
+			"translation": "按 [A] 或 [D] 旋 转 选 择 ， 按 [X] 左 /右 水 平 翻 转",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIPYARD_UI->CANNOT_ROTATE",
 			"original": "Cannot rotate current selection",
-			"translation": "当前选择无法旋转",
+			"translation": "当 前 选 择 无 法 旋 转",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIPYARD_UI->MIRROR_TIP",
 			"original": "[X] to mirror left/right",
-			"translation": "[X] 左/右水平翻转",
+			"translation": "[X] 左 /右 水 平 翻 转",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIPYARD_UI->CANNOT_MIRROR",
 			"original": "Cannot mirror multiple selected modules",
-			"translation": "无法水平翻转多个所选模块",
+			"translation": "无 法 水 平 翻 转 多 个 所 选 模 块",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIPYARD_UI->NO_ENGINES",
 			"original": "Vessel departure without at least one working engine is not allowed. Or possible.",
-			"translation": "必须至少有一台引擎工作的情况下飞船才能离港。",
+			"translation": "必 须 至 少 有 一 台 引 擎 工 作 的 情 况 下 飞 船 才 能 离 港 。",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIPYARD_UI->NO_SURVEYOR",
 			"original": "Cdre Yu has requested that [0] always have a surveyor installed.",
-			"translation": "余准将要求 [0] 必须配备一名验船师。",
+			"translation": "余 准 将 要 求 [0] 必 须 配 备 一 名 验 船 师 。",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIPYARD_UI->RESOURCE_DEFICIT",
 			"original": "Current ship design resource deficit, correct or revert ship before departure.",
-			"translation": "当前星舰设计资源不足，在离港前进行纠正或还原星舰。",
+			"translation": "当 前 星 舰 设 计 资 源 不 足 ， 在 离 港 前 进 行 纠 正 或 还 原 星 舰 。",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIPYARD_UI->THERMAL_LEGEND",
 			"original": "Simulating realtime maximum heat production with all systems at maximum output. \r\n\r\n<color=#dcf000>Clear/yellow: Systems nominal</color>\r\n<color=#ffcc00>Amber: Moderate efficiency loss (0-20%)</color>\r\n<color=#ff4353>Red: Significant efficiency loss (20-40%)</color>",
-			"translation": "模拟所有系统处于最大输出时的实时最大产热量。\r\n\r\n<color=#dcf000>透明/黄色：系统标称</color>\r\n<color=#ffcc00>琥珀色：中等效率损失 (0-20%)</color>\r\n<color=#ff4353>红色：显著的效率损失 (20-40%)</color>",
+			"translation": "模 拟 所 有 系 统 处 于 最 大 输 出 时 的 实 时 最 大 产 热 量 。 \r\n \r\n <color=#dcf000>透 明 / 黄 色 ： 系 统 标 称</color>\r\n <color=#ffcc00>琥 珀 色 ： 中 等 效 率 损 失 (0-20%)</color>\r\n <color=#ff4353>红 色 ： 显 著 的 效 率 损 失 (20-40%)</color>",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "SHIPYARD_UI->THERMAL_LEGEND_COLORBLIND",
 			"original": "Simulating realtime maximum heat production with all systems at maximum output. \n\nColor-blind mode: Red/brightness indicates thermal levels.",
-			"translation": "模拟所有系统在最大输出时的实时最大产热。\n\n色盲模式：红色/亮度表示热等级。",
+			"translation": "模 拟 所 有 系 统 在 最 大 输 出 时 的 实 时 最 大 产 热 。 \n \n 色 盲 模 式 ： 红 色 /亮 度 表 示 热 等 级 。",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "MISSIONS_UI->IN_PROGRESS",
 			"original": "In Progress",
-			"translation": "进行中",
+			"translation": "进 行 中",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "MISSIONS_UI->FAILED",
 			"original": "Failed",
-			"translation": "失败",
+			"translation": "失 败",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "MISSIONS_UI->COMPLETE",
 			"original": "Complete",
-			"translation": "完成",
+			"translation": "完 成",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "MISSIONS_UI->OBJECTIVE_COMPLETE_HINT",
 			"original": "No further action necessary, recorded in log for commander's reference.",
-			"translation": "无需进一步处理，已记录日志供指挥官查阅。",
+			"translation": "无 需 进 一 步 处 理 ， 已 记 录 日 志 供 指 挥 官 查 阅 。",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "MISSIONS_UI->OBJECTIVE_TRACKING_HINT",
 			"original": "Objective with an associated location. Click to toggle map tracking.",
-			"translation": "标记相关位置的任务目标。单击可打开地图跟踪。",
+			"translation": "标 记 相 关 位 置 的 任 务 目 标 。 单 击 可 打 开 地 图 跟 踪 。",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "MISSIONS_UI->OBJECTIVE_TRACKED",
 			"original": "(Tracked on map)",
-			"translation": "(已开启地图跟踪)",
+			"translation": "(已 开 启 地 图 跟 踪 )",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "MISSIONS_UI->OBJECTIVE_UNTRACKED",
 			"original": "(Not tracked on map)",
-			"translation": "(已取消地图跟踪)",
+			"translation": "(已 取 消 地 图 跟 踪 )",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "MISSIONS_UI->OBJECTIVE_ACTIONABLE_HIGH_HINT",
 			"original": "High priority objective with a likely course of action.",
-			"translation": "标记可行行动方案的高优先级任务目标。",
+			"translation": "标 记 可 行 行 动 方 案 的 高 优 先 级 任 务 目 标 。",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "MISSIONS_UI->OBJECTIVE_ACTIONABLE_LOW_HINT",
 			"original": "Objective with an associated location. Click to toggle map tracking.",
-			"translation": "目标带有相关位置。点击切换地图追踪。",
+			"translation": "目 标 带 有 相 关 位 置 。 点 击 切 换 地 图 追 踪 。",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "MISSIONS_UI->OBJECTIVE_ACTIONABLE_UNKNOWN_HINT",
 			"original": "Objective with no or an unknown immediate course of action.",
-			"translation": "没有或标记未知立即采取行动的任务目标。",
+			"translation": "没 有 或 标 记 未 知 立 即 采 取 行 动 的 任 务 目 标 。",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "LOG_UI->SHIPS_LOGS",
 			"original": "[0]'s Logs",
-			"translation": "[0] 的日志",
+			"translation": "[0] 的 日 志",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "LOG_UI->COMMANDING_OFFICER",
 			"original": "Commanding Officer: [0], [1] - [2]",
-			"translation": "指挥官: [0], [1] - [2]",
+			"translation": "指 挥 官 : [0], [1] - [2]",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "LOG_UI->CMD_LOG",
 			"original": "Cmd [0]'s Log",
-			"translation": "指挥官 [0] 的日志",
+			"translation": "指 挥 官 [0] 的 日 志",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "LOG_UI->ANOMALIES_COUNT",
 			"original": "Anomalies Investigated: [0]",
-			"translation": "已调查的异常: [0]",
+			"translation": "已 调 查 的 异 常 : [0]",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "LOG_UI->COMMS_ENTRY",
 			"original": "Comms Log:",
-			"translation": "通讯日志:",
+			"translation": "通 讯 日 志 :",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "LOG_UI->EV_ENTRY",
 			"original": "EV Investigation:",
-			"translation": "舱外活动调查:",
+			"translation": "舱 外 活 动 调 查 :",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "LOG_UI->SPACE_ANOMALY",
 			"original": "Spaced-based Anomaly Report at [0]",
-			"translation": "位于 [0] 的太空异常报告",
+			"translation": "位 于 [0] 的 太 空 异 常 报 告",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "LOG_UI->COMM_TRANSCRIPT",
 			"original": "Comms Log Transcript",
-			"translation": "通讯日志抄本",
+			"translation": "通 讯 日 志 抄 本",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "CARGO_UI->RP_AVAILABLE",
 			"original": "Available Research Points: [0]",
-			"translation": "可用研究点数: [0]",
+			"translation": "可 用 研 究 点 数 : [0]",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "CARGO_UI->DEFAULT_ITEM_HEADER",
 			"original": "Artifacts",
-			"translation": "神器",
+			"translation": "神 器",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "CARGO_UI->DEFAULT_ITEM_DESC",
 			"original": "Below is a list of artifacts we have found. Select one for more details.",
-			"translation": "下面是我们发现的神器列表。点选可查看更多详细信息。",
+			"translation": "下 面 是 我 们 发 现 的 神 器 列 表 。 点 选 可 查 看 更 多 详 细 信 息 。",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "CARGO_UI->NO_ITEMS_HEADER",
 			"original": "No Items",
-			"translation": "没有物品",
+			"translation": "没 有 物 品",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "CARGO_UI->NO_ITEMS_DETAIL",
 			"original": "No items in cargo hold.",
-			"translation": "货舱内没有物品。",
+			"translation": "货 舱 内 没 有 物 品 。",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "CARGO_UI->ANALYSIS_SEPERATOR",
 			"original": "Analysis:",
-			"translation": "分析:",
+			"translation": "分 析 :",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "CARGO_UI->ITEM_RP",
 			"original": "Research Points: +[0]",
-			"translation": "研究点数: +[0]",
+			"translation": "研 究 点 数 : +[0]",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "CARGO_UI->ANALYZED",
 			"original": "Analyzed",
-			"translation": "已分析",
+			"translation": "已 分 析",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "CARGO_UI->UNANALYZED",
 			"original": "Unanalyzed",
-			"translation": "未分析",
+			"translation": "未 分 析",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "RENAME_UI->RENAME_COMMANDER___VESSEL",
 			"original": "Rename Commander / Vessel",
-			"translation": "重命名指挥官/舰船",
+			"translation": "重 命 名 指 挥 官 / 舰 船",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "RENAME_UI->VESSEL_NAME_",
 			"original": "Vessel Name:",
-			"translation": "飞船名称:",
+			"translation": "飞 船 名 称 :",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "RENAME_UI->FIRST_NAME_",
 			"original": "First Name:",
-			"translation": "名:",
+			"translation": "名 :",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "RENAME_UI->LAST_NAME_",
 			"original": "Last Name:",
-			"translation": "姓:",
+			"translation": "姓 :",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "RENAME_UI->CANCEL",
 			"original": "Cancel",
-			"translation": "取消",
+			"translation": "取 消",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "RENAME_UI->OKAY",
 			"original": "Okay",
-			"translation": "好的",
+			"translation": "好 的",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "RENAME_UI->RENAME_CREW",
 			"original": "Rename crew",
-			"translation": "机组重命名",
+			"translation": "机 组 重 命 名",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_SWATCH_UI->SHIP__CHROMATICS",
 			"original": "Ship  chromatics",
-			"translation": "星舰涂装",
+			"translation": "星 舰 涂 装",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_SWATCH_UI->WITH_THE_CHROMATECH_SURFACE_WE_C",
 			"original": "With the chromatech surface we can customize our ship's appearance. ",
-			"translation": "有了色彩涂装，就可以定制星舰外观了。",
+			"translation": "有 了 色 彩 涂 装 ， 就 可 以 定 制 星 舰 外 观 了 。",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_SWATCH_UI->HULL_PLATING",
 			"original": "Hull Plating",
-			"translation": "船体装甲",
+			"translation": "船 体 装 甲",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_SWATCH_UI->HULL_DETAIL",
 			"original": "Hull Detail",
-			"translation": "船体细节",
+			"translation": "船 体 细 节",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_SWATCH_UI->UNDER_PLATING",
 			"original": "Under Plating",
-			"translation": "内嵌装甲",
+			"translation": "内 嵌 装 甲",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_SWATCH_UI->SMOOTHNESS_",
 			"original": "Smoothness:",
-			"translation": "平滑:",
+			"translation": "平 滑 :",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_SWATCH_UI->REVERT",
 			"original": "Revert",
-			"translation": "还原",
+			"translation": "还 原",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_SWATCH_UI->CLOSE",
 			"original": "Close",
-			"translation": "关闭",
+			"translation": "关 闭",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "TRADE_UI_STATIC->TRADE",
 			"original": "Trade",
-			"translation": "交易",
+			"translation": "交 易",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "TRADE_UI_STATIC->OUR_CARGO",
 			"original": "Our Cargo",
-			"translation": "我方货物",
+			"translation": "我 方 货 物",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "TRADE_UI_STATIC->THEY_HAVE",
 			"original": "They Have",
-			"translation": "对方货物",
+			"translation": "对 方 货 物",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "TRADE_UI_STATIC->NEED",
 			"original": "Need",
-			"translation": "需求",
+			"translation": "需 求",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "TRADE_UI_STATIC->OUR_SELL___BUY_PRICE",
 			"original": "Our Sell / Buy Price",
-			"translation": "我方售价/买价",
+			"translation": "我 方 售 价 / 买 价",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "TRADE_UI_STATIC->RESET",
 			"original": "Reset",
-			"translation": "重置",
+			"translation": "重 置",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "TRADE_UI_STATIC->EXECUTE_TRADES",
 			"original": "Execute Trades",
-			"translation": "执行交易",
+			"translation": "执 行 交 易",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "TRADE_UI_STATIC->ARTIFACTS_FOR_SALE",
 			"original": "Artifacts for Sale",
-			"translation": "待售神器",
+			"translation": "待 售 神 器",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "TRADE_UI_STATIC->BUY_PRICE",
 			"original": "Price",
-			"translation": "价格",
+			"translation": "价 格",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "TRADE_UI_STATIC->BUY_BUTTON",
 			"original": "Buy",
-			"translation": "购买",
+			"translation": "购 买",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "TRADE_UI_STATIC->ARTIFACTS_IN_CARGO_HOLD",
 			"original": "Artifacts in Cargo Hold",
-			"translation": "货舱内神器",
+			"translation": "货 舱 内 神 器",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "TRADE_UI_STATIC->SELL_PRICE",
 			"original": "Price",
-			"translation": "价格",
+			"translation": "价 格",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "TRADE_UI_STATIC->SELL_BUTTON",
 			"original": "Sell",
-			"translation": "出售",
+			"translation": "出 售",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "TRADE_UI_STATIC->EXIT",
 			"original": "Exit",
-			"translation": "退出",
+			"translation": "退 出",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "TRADE_UI_STATIC->NEED_TOOLTIP",
 			"original": "If you've set a ship design goal in the Shipyard,\nthe total resource shortfall is shown here. I.e., how\nmuch we need in cargo to be able to build.",
-			"translation": "如果你在造船厂设定了星舰设计目标，\n这里就会显示总资源缺口。也即，\n我们需要多少货才能开始建造。",
+			"translation": "如 果 你 在 造 船 厂 设 定 了 星 舰 设 计 目 标 ， \n 这 里 就 会 显 示 总 资 源 缺 口 。 也 即 ， \n 我 们 需 要 多 少 货 才 能 开 始 建 造 。",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "TRADE_UI->FACTION_HEADER",
 			"original": "[FACTION] Trade Currency: [CURRENCY] ([SYMBOL])",
-			"translation": "[FACTION] 交易货币: [CURRENCY] ([SYMBOL])",
+			"translation": "[FACTION] 交 易 货 币 : [CURRENCY] ([SYMBOL])",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "TRADE_UI->FACTION_BODY",
 			"original": "The [FACTION] have agreed to trade with us. Use the fields on the left to set desired transfers. When ready click \"Execute Trades\". The [FACTION] use [CURRENCY] as their reserve currency, so any excess profits/costs will adjust our [CURRENCY] supply. Any artifacts available for sale are list on the right.",
-			"translation": "[FACTION] 同意和我们交易。使用左侧的字段设置所需的交易。在准备好后就点击 \"执行交易\"。目前 [FACTION] 使用 [CURRENCY] 作为储备货币，其任何超额利润/成本都会令我们调整 [CURRENCY] 供应。任何可供出售的古物都列在右边。",
+			"translation": "[FACTION] 同 意 和 我 们 交 易 。 使 用 左 侧 的 字 段 设 置 所 需 的 交 易 。 在 准 备 好 后 就 点 击 \"执 行 交 易 \"。 目 前 [FACTION] 使 用 [CURRENCY] 作 为 储 备 货 币 ， 其 任 何 超 额 利 润 /成 本 都 会 令 我 们 调 整 [CURRENCY] 供 应 。 任 何 可 供 出 售 的 古 物 都 列 在 右 边 。",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "TRADE_UI->OUR_CURRENCY",
 			"original": "Our [CURRENCY]",
-			"translation": "我方 [CURRENCY]",
+			"translation": "我 方 [CURRENCY]",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "TRADE_UI->ITEM_ANALYZED",
 			"original": "(Analyzed)",
-			"translation": "(已分析)",
+			"translation": "(已 分 析 )",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "TRADE_UI->ITEM_UNANALYZED",
 			"original": "(Unanalyzed)",
-			"translation": "(未分析)",
+			"translation": "(未 分 析 )",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "TRADE_UI->MODULE_LIST",
 			"original": "Modules:",
-			"translation": "模组:",
+			"translation": "模 组 :",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "TRADE_UI->GAMEPAD_HINT",
 			"original": "Right Joystick to adjust trade quantities",
-			"translation": "用右摇杆调整交易数量",
+			"translation": "用 右 摇 杆 调 整 交 易 数 量",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "MAP_HUD_STATIC->HIGHLIGHT_INVESTIGATE_",
 			"original": "Highlight Investigate:",
-			"translation": "高亮调查:",
+			"translation": "高 亮 调 查 :",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "MAP_HUD_STATIC->FOG_OF_EXPLORATION_",
 			"original": "Fog of Exploration:",
-			"translation": "探索迷雾:",
+			"translation": "探 索 迷 雾 :",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "MAP_HUD_STATIC->INTERACTIONS_LEGEND",
 			"original": "<color=#ffdf5f>Yellow: Unscanned</color>\n<color=#ff3fff>Magenta: Unsurveyed</color>\n<color=#3ff5ff>Blue: Additional Interactions</color>\n<color=#20d130>Green: Trade Outpost</color>\n",
-			"translation": "<color=#ffdf5f>黄色：未扫描</color>\n<color=#ff3fff>品红色：未勘测</color>\n<color=#3ff5ff>蓝色：额外互动</color>\n<color=#20d130>绿色：贸易前哨</color>\n",
+			"translation": "<color=#ffdf5f>黄 色 ： 未 扫 描</color>\n <color=#ff3fff>品 红 色 ： 未 勘 测</color>\n <color=#3ff5ff>蓝 色 ： 额 外 互 动</color>\n <color=#20d130>绿 色 ： 贸 易 前 哨</color>\n",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "MAP_HUD_STATIC->MAP_CONTROL_TIPS",
 			"original": "Mousewheel: Zoom to Center\nCTRL+ Mousewheel: to Zoom to Cursor\nCTRL+ Click: Autopilot\nCTRL+ALT+ Click: Direct Autopilot\nRight-Click: Create Log Entry",
-			"translation": "鼠标滚轮: 缩放到中心\nCTRL+ 鼠标滚轮: 缩放到光标\nCTRL+ 单击: 自动驾驶\nCTRL+ALT+ 单击: 直达自动驾驶\n右键单击: 创建日志",
+			"translation": "鼠 标 滚 轮 : 缩 放 到 中 心 \n CTRL+ 鼠 标 滚 轮 : 缩 放 到 光 标 \n CTRL+ 单 击 : 自 动 驾 驶 \n CTRL+ALT+ 单 击 : 直 达 自 动 驾 驶 \n 右 键 单 击 : 创 建 日 志",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "MAP_HUD_STATIC->MAP_CONTROL_TIPS_GAMEPAD",
 			"original": "Right joystick: Pan map\nRight joystick depress: Set autopilot\n",
-			"translation": "右摇杆：平移地图\n按下右摇杆：设定自动导航\n",
+			"translation": "右 摇 杆 ： 平 移 地 图 \n 按 下 右 摇 杆 ： 设 定 自 动 导 航 \n",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "MAP_HUD->COORD",
 			"original": "Coord:",
-			"translation": "坐标:",
+			"translation": "坐 标 :",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "MAP_HUD->CURSOR_COORD",
 			"original": "Cursor Coord:",
-			"translation": "光标坐标:",
+			"translation": "光 标 坐 标 :",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "MAP_HUD->DISTANCE",
 			"original": "Distance:",
-			"translation": "距离:",
+			"translation": "距 离 :",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "HUD->ITEM_PICKUP",
 			"original": "Picked up [0]",
-			"translation": "已拾取 [0]",
+			"translation": "已 拾 取 [0]",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "HUD->DROP_PICKUP",
 			"original": "Picked up [0] [1]",
-			"translation": "已拾取 [0] [1]",
+			"translation": "已 拾 取 [0] [1]",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "HUD->SKILL_ADJUST",
 			"original": "Permanent skill adjustment of [0] [1] for [2]",
-			"translation": "永久技能调整 [0] [1] 为 [2]",
+			"translation": "永 久 技 能 调 整 [0] [1] 为 [2]",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "HUD->CRUISE_ON",
 			"original": "Cruise mode enabled",
-			"translation": "巡航模式已启用",
+			"translation": "巡 航 模 式 已 启 用",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "HUD->CRUISE_OFF",
 			"original": "Cruise mode disabled",
-			"translation": "巡航模式已禁用",
+			"translation": "巡 航 模 式 已 禁 用",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "HUD->CREW_TRANSFER",
 			"original": "Transferring [0] support crew to [1]",
-			"translation": "将 [0] 后勤人员转移到 [1]",
+			"translation": "将 [0] 后 勤 人 员 转 移 到 [1]",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "HUD->CREW_TRANSFER_NEGATIVE",
 			"original": "Reducing [0] support crew by [1]",
-			"translation": "后勤人员 [1] 减少 [0]",
+			"translation": "后 勤 人 员 [1] 减 少 [0]",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "HUD->CREW_XP",
 			"original": "Crew has gained [0] XP",
-			"translation": "机组获得 [0] 经验值",
+			"translation": "机 组 获 得 [0] 经 验 值",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "HUD->CREW_INJURED",
 			"original": "[0] has been injured",
-			"translation": "[0] 受伤",
+			"translation": "[0] 受 伤",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "HUD->CREW_RECOVERED",
 			"original": "[0] is fully recovered",
-			"translation": "[0] 已完全恢复",
+			"translation": "[0] 已 完 全 恢 复",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "HUD->SUPPORT_CRITICAL",
 			"original": "Support personnel member critically injured!",
-			"translation": "后勤人员重伤！",
+			"translation": "后 勤 人 员 重 伤 ！",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "HUD->HEROIC_SAVE",
 			"original": "[0] prevented catastrophic damage",
-			"translation": "[0] 防止了灾难性破坏",
+			"translation": "[0] 防 止 了 灾 难 性 破 坏",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "HUD->NEW_MISSION",
 			"original": "New mission added to log",
-			"translation": "日志中增加了新的任务",
+			"translation": "日 志 中 增 加 了 新 的 任 务",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "HUD->MISSION_COMPLETE",
 			"original": "Completed Mission: [0]",
-			"translation": "已完成任务: [0]",
+			"translation": "已 完 成 任 务 : [0]",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "HUD->AUTOPILOT_ENGAGED",
 			"original": "Autopilot engaged",
-			"translation": "自动驾驶已开启",
+			"translation": "自 动 驾 驶 已 开 启",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "HUD->AUTOPILOT_DISENGAGED",
 			"original": "Autopilot disengaged",
-			"translation": "自动驾驶已关闭",
+			"translation": "自 动 驾 驶 已 关 闭",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "HUD->BATTLESTATIONS",
 			"original": "Crew to battlestations!",
-			"translation": "全体船员进入战斗！",
+			"translation": "全 体 船 员 进 入 战 斗 ！",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "HUD->BATTLESTATIONS_UNREADY",
 			"original": "Crew not ready for battlestations",
-			"translation": "船员们尚未做好战斗准备",
+			"translation": "船 员 们 尚 未 做 好 战 斗 准 备",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "HUD->BATTLESTATIONS_UNNECESSARY",
 			"original": "Battlestations unnecessary: no threats detected and ship hull at full strength",
-			"translation": "非必要战斗岗位：没有探测到威胁，舰体强度最大",
+			"translation": "非 必 要 战 斗 岗 位 ： 没 有 探 测 到 威 胁 ， 舰 体 强 度 最 大",
 			"priority": 0,
 			"reviewed": false
 		},
 		{
 			"symbol": "HUD->BATTLESTATIONS_READY",
 			"original": "Crew ready for battlestations",
-			"translation": "全体船员已做好战斗准备",
+			"translation": "全 体 船 员 已 做 好 战 斗 准 备",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "HUD->SENSORS_OFFLINE",
 			"original": "Damage report: Navigation sensors offline",
-			"translation": "损伤报告：导航传感器离线",
+			"translation": "损 伤 报 告 ： 导 航 传 感 器 离 线",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "HUD->SENSORS_ONLINE",
 			"original": "Repair report: Navigation sensors back online",
-			"translation": "维修报告：导航传感器已连接",
+			"translation": "维 修 报 告 ： 导 航 传 感 器 已 连 接",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_HUD->SECONDARY_WEAPON_",
 			"original": "Secondary Weapon:",
-			"translation": "副武器:",
+			"translation": "副 武 器 :",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_HUD->SUPPORT_CREW_",
 			"original": "Support crew:",
-			"translation": "支援人员:",
+			"translation": "支 援 人 员 :",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_HUD->SPEED_",
 			"original": "Speed:",
-			"translation": "速度:",
+			"translation": "速 度 :",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_HUD->SQUADRONS_",
 			"original": "Squadrons:",
-			"translation": "舰队:",
+			"translation": "舰 队 :",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_HUD->MISSILES_",
 			"original": "Missiles:",
-			"translation": "导弹:",
+			"translation": "导 弹 :",
 			"priority": 0,
 			"reviewed": true
 		},
@@ -1472,25 +1472,27 @@
 		{
 			"symbol": "SHIP_HUD->ENERGY_",
 			"original": "Energy:",
-			"translation": "能量:",
+			"translation": "能 量 :",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "SHIP_HUD->HULL_",
 			"original": "Hull:",
-			"translation": "船体:",
+			"translation": "船 体 :",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "BLUEPRINT_LOAD_UI_STATIC->SHIP_DESIGNS",
 			"original": "Ship Designs",
-			"translation": "星舰设计",
+			"translation": "星 舰 设 计",
 			"priority": 0,
 			"reviewed": true
 		},
 		{
 			"symbol": "BLUEPRINT_LOAD_UI_STATIC->SET_BUILD_GOAL",
 			"original": "Set Build Goal",
-			"translation": "设置建
+			"translation": "设 置 建
+
+[end of zh.txt]
